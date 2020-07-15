@@ -1,0 +1,3 @@
+[submodule "GitTest2"]
+	path = GitTest2
+	url = https://github.com/billgao87/GitTest2.git
